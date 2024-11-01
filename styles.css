@@ -1,9 +1,9 @@
 body {
     background-color: rgb(135, 201, 223);
     color: black;
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 40px;
 }
 
 h1 {
@@ -14,11 +14,11 @@ h1 {
     margin: 20px 0;
 }
 
-.attraction img {
+img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 10px auto;
+    float: auto;
 }
 
 h2 {
